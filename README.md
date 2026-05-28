@@ -10,39 +10,7 @@
 
 ## Introduction
 
-Proven background building apps, supporting Microsoft infrastructure, troubleshooting complex technical issues, implementing security controls, & collaborating across engineering & operations teams. Hands-on experience with vulnerability remediation, compliance initiatives, & automation. Holds a master’s degree in cybersecurity for a strong foundation in secure configuration, least privilege, risk assessment, & operational security with a defense-in-depth mindset.
-
-<!-- Section (Category: Open Source) -->
-
-## Open Source Software
-
-<!-- Subsection -->
-
-### Pza - Python Framework
-
-Pza is a package that provides logging, settings, database, and command line features for Python apps.
-
-- **My Role:** Solo Developer
-- **Tags:** `Python`, `SQLite`
-- **Open Source Repository:** [GitHub](https://github.com/martinezcode/pza)
-
-![Pza screenshot](./images/pza.jpg)
-
-<!-- Section (Category: X-Rite) -->
-
-## Professional Software Development with X-Rite Pantone
-
-<!-- Subsection (Project) -->
-
-### ColorCert - Color Measurement Suite
-
-ColorCert color management software streamlines color communication, ensures brand consistency, and provides quality control for printing and packaging.
-
-- **My Role:** Senior Developer
-- **Tags:** `Xojo`, `SQLite`, `API`
-- **Publisher Website:** [X-Rite Pantone](https://www.xrite.com/categories/formulation-and-quality-assurance-software/colorcert)
-
-![ColorCert screenshot](./images/colorcert.webp)
+Senior software development engineer experienced in system architecture design & implementation of robust, modular, & maintainable frameworks and applications that bridge the gap between abstract or complex business requirements & performant execution of software solutions for real-world production systems & resilient automated workflows.
 
 <!-- Section (Category: Pro-Ware) -->
 
@@ -54,11 +22,11 @@ ColorCert color management software streamlines color communication, ensures bra
 
 The Affordable Care Act (ACA) requires large employers and insurance providers to report health coverage information to the IRS annually. ACA 1095 Reporting desktop software and e-File service makes the process of gathering data and filing forms easy. Sophisticated data validation and strong security controls ensure that information returns are filed with the IRS accurately and safely.
 
-- **My Role:** Senior Developer
+- **My Role:** Product Owner - Designed distributed architecture, implemented application systems, & led production launch
 - **Tags:** `Xojo`, `PostgreSQL`, `AWS`, `SOAP`, `XML`
 - **Publisher Website:** [Pro-Ware](https://www.proware-cpa.com/aca-features.html)
 
-![ACA 1095 Reporting screenshot](./images/aca.jpg)
+![ACA 1095 Reporting screenshot](./images/aca-system.png)
 
 <!-- Subsection (Project) -->
 
@@ -122,27 +90,37 @@ Showtimes desktop application presents movie showtime listings for selected thea
 
 ![Showtimes screenshot](./images/showtimes.jpg)
 
-<!-- Section (Category: Hardware) -->
+<!-- Section (Category: Open Source) -->
 
-## Hardware Projects
+## Open Source Software
+
+<!-- Subsection -->
+
+### Pza - Python Framework
+
+Pza is a package that provides logging, settings, database, and command line features for Python apps.
+
+- **My Role:** Solo Developer
+- **Tags:** `Python`, `SQLite`
+- **Open Source Repository:** [GitHub](https://github.com/martinezcode/pza)
+
+![Pza screenshot](./images/pza.jpg)
+
+<!-- Section (Category: X-Rite) -->
+
+## Professional Software Development with X-Rite Pantone
 
 <!-- Subsection (Project) -->
 
-### PC Builds and Upgrades
+### ColorCert - Color Measurement Suite
 
-![PC photo](./images/pc.jpg)
+ColorCert color management software streamlines color communication, ensures brand consistency, and provides quality control for printing and packaging.
 
-<!-- Subsection (Project) -->
+- **My Role:** Senior Developer
+- **Tags:** `Xojo`, `SQLite`, `API`
+- **Publisher Website:** [X-Rite Pantone](https://www.xrite.com/categories/formulation-and-quality-assurance-software/colorcert)
 
-### Mobile Device Repair
-
-![Mobile photo](./images/mobile.jpg)
-
-<!-- Subsection (Project) -->
-
-### Guitar Repair & Rebuild
-
-![Guitar repair photo](./images/guitar.webp)
+![ColorCert screenshot](./images/colorcert.webp)
 
 <!-- Section (Category: Hobbies) -->
 
@@ -150,7 +128,9 @@ Showtimes desktop application presents movie showtime listings for selected thea
 
 <!-- Subsection (Project) -->
 
-### Guitar
+### Guitar Repair & Rebuild
+
+![Guitar repair photo](./images/guitar.webp)
 
 ![Guitar photo](./images/guitars.webp)
 
