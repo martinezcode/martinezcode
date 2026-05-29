@@ -1,6 +1,6 @@
 <!-- Title -->
 
-![Logo](./images/profile.jpg)
+![Logo](./images/profile.jpeg)
 
 # Aaron Martinez
 
@@ -26,7 +26,7 @@ The Affordable Care Act (ACA) requires large employers and insurance providers t
 - **Tags:** `Xojo`, `PostgreSQL`, `AWS`, `SOAP`, `XML`
 - **Publisher Website:** [Pro-Ware](https://www.proware-cpa.com/aca-features.html)
 
-![ACA 1095 Reporting screenshot](./images/aca-system.png)
+![ACA 1095 Reporting screenshot](./images/aca-system.jpeg)
 
 <!-- Subsection (Project) -->
 
@@ -38,7 +38,7 @@ PFS Plus desktop software generates personal financial statements to help get lo
 - **Tags:** `Xojo`, `PDF`, `SQLite`
 - **Publisher Website:** [Pro-Ware](https://www.proware-cpa.com/pfsmc-features.html)
 
-![PFS Plus screenshot](./images/pfs.jpg)
+![PFS Plus screenshot](./images/pfs.jpeg)
 
 <!-- Subsection (Project) -->
 
@@ -50,7 +50,7 @@ Quick Trial Balance Pro assists in keeping general ledger accounts in balance th
 - **Tags:** `Xojo`, `PDF`, `SQLite`
 - **Publisher Website:** [Pro-Ware](https://www.proware-cpa.com/qtb-features.html)
 
-![QTB Screenshot](./images/qtb.jpg)
+![QTB Screenshot](./images/qtb.jpeg)
 
 <!-- Subsection (Project) -->
 
@@ -62,7 +62,7 @@ Asset Keeper Pro desktop software makes it easy for CPAs and other tax professio
 - **Tags:** `Xojo`, `PDF`, `SQLite`
 - **Publisher Website:** [Pro-Ware](https://www.proware-cpa.com/ak-depreciation-info.html)
 
-![AKPro Screenshot](./images/akpro.jpg)
+![AKPro Screenshot](./images/akpro.jpeg)
 
 <!-- Section (Category: Personal Projects) -->
 
@@ -77,7 +77,7 @@ Photo Action Batch desktop application simplifies image file management tasks su
 - **My Role:** Solo Developer on Personal Project
 - **Tags:** `Xojo`, `SQLite`, `GraphicsMagick`
 
-![Phab screenshot](./images/phab.jpg)
+![Phab screenshot](./images/phab.jpeg)
 
 <!-- Subsection (Project) -->
 
@@ -88,7 +88,7 @@ Showtimes desktop application presents movie showtime listings for selected thea
 - **My Role:** Solo Developer on Personal Project
 - **Tags:** `Xojo`, `SQLite`, `Gracenote API`, `JSON`
 
-![Showtimes screenshot](./images/showtimes.jpg)
+![Showtimes screenshot](./images/showtimes.jpeg)
 
 <!-- Section (Category: Open Source) -->
 
@@ -104,7 +104,7 @@ Pza is a package that provides logging, settings, database, and command line fea
 - **Tags:** `Python`, `SQLite`
 - **Open Source Repository:** [GitHub](https://github.com/martinezcode/pza)
 
-![Pza screenshot](./images/pza.jpg)
+![Pza screenshot](./images/pza.jpeg)
 
 <!-- Section (Category: X-Rite) -->
 
@@ -120,7 +120,7 @@ ColorCert color management software streamlines color communication, ensures bra
 - **Tags:** `Xojo`, `SQLite`, `API`
 - **Publisher Website:** [X-Rite Pantone](https://www.xrite.com/categories/formulation-and-quality-assurance-software/colorcert)
 
-![ColorCert screenshot](./images/colorcert.webp)
+![ColorCert screenshot](./images/colorcert.jpeg)
 
 <!-- Section (Category: Hobbies) -->
 
@@ -130,15 +130,15 @@ ColorCert color management software streamlines color communication, ensures bra
 
 ### PC Build & Upgrade
 
-![PC photo](./images/pc.jpg)
+![PC photo](./images/pc.jpeg)
 
 <!-- Subsection (Project) -->
 
 ### Guitar Repair & Rebuild
 
-![Guitar repair photo](./images/guitar.webp)
+![Guitar repair photo](./images/guitar.jpeg)
 
-![Guitar photo](./images/guitars.webp)
+![Guitar photo](./images/guitars.jpeg)
 
 <!-- Subsection (Project) -->
 
@@ -150,4 +150,4 @@ ColorCert color management software streamlines color communication, ensures bra
 
 ### Movie Posters
 
-![Poster photo](./images/posters.webp)
+![Poster photo](./images/posters.jpeg)
