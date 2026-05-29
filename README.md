@@ -4,8 +4,6 @@
 
 # Aaron Martinez
 
-**Application Development | Cybersecurity | IT Infrastructure**
-
 <!-- Section -->
 
 ## Introduction
