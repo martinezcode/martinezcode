@@ -128,6 +128,12 @@ ColorCert color management software streamlines color communication, ensures bra
 
 <!-- Subsection (Project) -->
 
+### PC Build & Upgrade
+
+![PC photo](./images/pc.jpg)
+
+<!-- Subsection (Project) -->
+
 ### Guitar Repair & Rebuild
 
 ![Guitar repair photo](./images/guitar.webp)
