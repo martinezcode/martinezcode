@@ -1,7 +1,3 @@
-<!-- Document top anchor -->
-
-<a id="readme-top"></a>
-
 <!-- Title -->
 
 ![Logo](./images/profile.jpeg)
@@ -118,7 +114,3 @@ Showtimes desktop application presents movie showtime listings for selected thea
 ![Showtimes screenshot](./images/showtimes.jpeg)
 
 ***
-
-<!-- Return to top anchor -->
-
-<p align="right"><a href="#readme-top">Back to Top</a></p>
