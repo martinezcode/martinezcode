@@ -8,6 +8,20 @@ Senior software development engineer experienced in system architecture design &
 
 ***
 
+<!-- Section (Category: Cybersecuriyt) -->
+
+## Cybersecurity Architecture
+
+<!-- Subsection -->
+
+### Cybersecurity Resource Library
+
+My Resource Library includes risk management & thread modeling frameworks, implementation guides, architecture design materials, business solution deliverables, and more.
+
+- **Repository:** [GitHub](https://github.com/martinezcode/martinezcode/cybersecurity)
+
+***
+
 <!-- Section (Category: Open Source) -->
 
 ## Open Source Software
